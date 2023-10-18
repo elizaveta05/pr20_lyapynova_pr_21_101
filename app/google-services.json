@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "445513774312",
+    "firebase_url": "https://pr20-255b7-default-rtdb.firebaseio.com/",
+    "project_id": "pr20-6145e",
+    "storage_bucket": "pr20-6145e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445513774312:android:b398022ae740499529c55d",
+        "android_client_info": {
+          "package_name": "com.example.pr20_lyapynova_pr_21_101"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXSQPx4KLD2PNP_2wGhJixiGvuBw7gPAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
